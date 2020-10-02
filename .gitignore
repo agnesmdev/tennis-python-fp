@@ -1,0 +1,15 @@
+*.class
+*.log
+*.iml
+*.env
+*.DS_Store
+*.coverage
+
+.idea/
+.pytest_cache/
+__pycache__/
+
+env/
+project/
+reports/
+target/
